@@ -1,84 +1,60 @@
-## Hi there 👋
-
-<!--
-**Kbs87/Kbs87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi, I'm kb s 👋
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F80ED&lines=Computer+Science+Student;Full-Stack+Developer;Building+Practical+Web+Applications" />
+<p align="center">
+  <img src="./assets/banner.gif" alt="banner" width="100%" />
 </p>
-
-🎓 Computer Science Student  
-💻 Aspiring Full-Stack Developer  
-📍 Ethiopia  
-
----
-
-## 👨‍💻 About Me
-
-I am passionate about building clean, scalable, and user-focused web applications.  
-I enjoy solving real-world problems and continuously improving my development skills.
-
----
-
-## 🛠 Tech Stack
-
-**Frontend:** HTML, CSS, JavaScript  
-**Backend:** Node.js, PHP  
-**Database:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code  
-
----
-
-## 🚀 Featured Project
-
-### JU Lost & Found System
-A full-stack web application that helps students report and recover lost items efficiently on campus.  
-- User Authentication  
-- CRUD Operations  
-- Database Integration  
-- Responsive UI Design  
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" height="150"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=00FFAB&background=0A0A0A00&width=800&lines=Hi,+I'm+Kbs87;I+build+things+%7C+Open+Source+%7C+Web+%26+Cloud" alt="typing" />
 </p>
 
----
-
-## 📈 Activity Graph
+<h3 align="center">Full‑stack dev • Open Source enthusiast • Lifelong learner</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kbs87&show_icons=true&theme=dark&count_private=true" alt="Kbs87 github stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kbs87&layout=compact&theme=dark" alt="Kbs87 top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kbs87&theme=dark" alt="GitHub Streak" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Kbs87&color=blue" alt="profile views" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+## About
+I build reliable, maintainable systems and enjoy contributing to open source. I like working with web technologies, cloud platforms, and automation.
 
-- Improve backend architecture & API development  
-- Strengthen Data Structures & Algorithms  
-- Build scalable full-stack projects  
+- 🔭 Working on: improvements to personal projects and learning advanced system design  
+- 🌱 Learning: observability, distributed systems, and Rust  
+- 💬 Ask me about: web backends, infra-as-code, automation, and APIs
 
 ---
 
-## 📫 Connect With Me
+## Skills
+<!-- Animated skill bars are in ./assets/skills.svg -->
+<p align="center">
+  <img src="./assets/skills.svg" alt="skills" />
+</p>
 
-📧 your-email@example.com  
-🔗 https://github.com/yourusername
+---
 
-Here are some ideas to get you started:
+## Projects
+- 🔸 [project-one](https://github.com/Kbs87/project-one) - short one-line description
+- 🔹 [project-two](https://github.com/Kbs87/project-two) - short one-line description
+- 🔸 [project-three](https://github.com/Kbs87/project-three) - short one-line description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(Replace the above with your actual pinned repos or project links.)
+
+---
+
+## Connect
+<p align="center">
+  <a href="https://twitter.com/yourhandle"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yourprofile-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-your.email%40example.com-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+If you want tweaks (colors, fonts, different animations, auto-pinned repos, or to inline the SVG as a data URI), tell me which bits to change and I'll update it.
