@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm [Your Name]
+# 👨‍💻 Hi, I'm Kibre Siyoum 
 
 🎓 Computer Science Student | 💻 Full-Stack Developer  
 📍 Jimma University, Ethiopia  
